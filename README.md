@@ -37,24 +37,11 @@
  
 # Some tools I work on
 
-### 🎮 Version control system
-<p>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-</p>
-
 ### 🧑🏻‍💻 IDE/Editor
 <p>
   <img src="https://img.shields.io/badge/peaVim-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
 </p>
-
-### 💻 Terminal
-<p>
-  <img src="https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white" />
-  <img src="https://img.shields.io/badge/oh_my_zsh-3670A0?style=for-the-badge&logo=ohmyzsh&logoColor=white" />
-</p>
-
 
 ### 👩‍💻 Language
 <p>
@@ -76,10 +63,4 @@
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
-### 💻 Operating system
-<p>
-  <img src="https://img.shields.io/badge/macos%20M1-ffffff?style=for-the-badge&logo=macos&logoColor=000000" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </p>
