@@ -27,18 +27,20 @@
 ## Some tools I work on
 
 ### 💻 IDE/Editor
+
   ![Neovim](https://img.shields.io/badge/Peavim-43a047.svg?style=for-the-badge&logo=neovim&logoColor=43a047&labelColor=fff&color=43a047)
   ![Xcode](https://img.shields.io/badge/Xcode-007acc?style=for-the-badge&logo=Xcode&logoColor=007acc&labelColor=fff&color=007acc)
 
 ### 👩‍💻 Language
+
   ![Swfit](https://img.shields.io/badge/swift-f54a2a?style=for-the-badge&logo=swift&logoColor=f54a2a&labelColor=fff&color=f54a2a)
 	![Rust](https://img.shields.io/badge/rust-ee7950?style=for-the-badge&logo=rust&logoColor=ee7950&labelColor=fff&color=ee7950)
-	![Lua](https://img.shields.io/badge/lua-42a5f5.svg?style=for-the-badge&logo=lua&logoColor=42a5f5&labelColor=fff&color=42a5f5)
+	![Lua](https://img.shields.io/badge/lua-42a5f5.svg?style=for-the-badge&logo=lua&logoColor=blue&labelColor=fff&color=blue)
 	![Typescript](https://img.shields.io/badge/typescript-3172bc.svg?style=for-the-badge&logo=typescript&logoColor=3172bc&labelColor=fff&color=3172bc)
 
 ### 🚀 Framework
 
-  ![React](https://img.shields.io/badge/react-539bf5?style=for-the-badge&logo=react&logoColor=82d7f7&labelColor=222&color=82d7f7)
+  ![React](https://img.shields.io/badge/react-539bf5?style=for-the-badge&logo=react&logoColor=42a5f5&labelColor=222&color=42a5f5)
 	![Nextjs](https://img.shields.io/badge/next.js-fff?style=for-the-badge&logo=nextdotjs&logoColor=000&labelColor=fff&color=000)
 	
 
