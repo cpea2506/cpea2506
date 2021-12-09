@@ -23,9 +23,10 @@
 ![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=7)
 
 </div>
+
 ## Some tools I work on
 
-### 🧑🏻‍💻 IDE/Editor
+### 💻 IDE/Editor
   ![Neovim](https://img.shields.io/badge/Peavim-43a047.svg?style=for-the-badge&logo=neovim&logoColor=43a047&labelColor=fff&color=43a047)
   ![Xcode](https://img.shields.io/badge/Xcode-007acc?style=for-the-badge&logo=Xcode&logoColor=007acc&labelColor=fff&color=007acc)
 
