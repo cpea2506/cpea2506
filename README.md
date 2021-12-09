@@ -17,15 +17,12 @@
 - 📚 I’m currently a student of VN HCMUTE.
 - 🔭 My major is Information Technology as MERN stack and in love with Rust + Swift.
 
-<div align="center"> 
-  <a href="https://github.com/cpea2506/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api?username=cpea2506&show_icons=true&theme=onedark" />
-  </a>
-  <a href="https://github.com/cpea2506/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=7" />
-  </a>
+<div align="center">
+
+![Stat](https://github-readme-stats.vercel.app/api?username=cpea2506&show_icons=true&theme=onedark)
+![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=7)
+
 </div>
- 
 ## Some tools I work on
 
 ### 🧑🏻‍💻 IDE/Editor
