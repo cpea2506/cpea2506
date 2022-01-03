@@ -20,8 +20,8 @@
 <div align="center">
 
 ![Stat](https://github-readme-stats.vercel.app/api?username=cpea2506&show_icons=true&theme=onedark)
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=7)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cpea2506&theme=onedark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+	
 </div>
 
 ## Some tools I work on
