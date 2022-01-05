@@ -10,7 +10,7 @@
 <img src = "https://readme-jokes.vercel.app/api?theme=onedark">
 </div>
 
-## Introduce
+## Introduction
 
 
 - 🤞🏻 Bonjour! I'm Do Vien, you can call me `CPea`.
@@ -24,26 +24,25 @@
 	
 </div>
 
-## Some tools I work on
+## I'm working on
 
-### 💻 IDE/Editor
+👩‍💻 **Language**
 
-  ![Neovim](https://img.shields.io/badge/Peavim-43a047.svg?style=for-the-badge&logo=neovim&logoColor=43a047&labelColor=fff&color=43a047)
-  ![Xcode](https://img.shields.io/badge/Xcode-007acc?style=for-the-badge&logo=Xcode&logoColor=007acc&labelColor=fff&color=007acc)
+   ![Swfit](https://img.shields.io/badge/swift-f54a2a?style=for-the-badge&logo=swift&logoColor=f54a2a&labelColor=fff&color=f54a2a)
+   ![Rust](https://img.shields.io/badge/rust-ee7950?style=for-the-badge&logo=rust&logoColor=ee7950&labelColor=fff&color=ee7950)
+   ![Lua](https://img.shields.io/badge/lua-42a5f5.svg?style=for-the-badge&logo=lua&logoColor=blue&labelColor=fff&color=blue)
+   ![Typescript](https://img.shields.io/badge/typescript-3172bc.svg?style=for-the-badge&logo=typescript&logoColor=3172bc&labelColor=fff&color=3172bc)
 
-### 👩‍💻 Language
-
-  ![Swfit](https://img.shields.io/badge/swift-f54a2a?style=for-the-badge&logo=swift&logoColor=f54a2a&labelColor=fff&color=f54a2a)
-	![Rust](https://img.shields.io/badge/rust-ee7950?style=for-the-badge&logo=rust&logoColor=ee7950&labelColor=fff&color=ee7950)
-	![Lua](https://img.shields.io/badge/lua-42a5f5.svg?style=for-the-badge&logo=lua&logoColor=blue&labelColor=fff&color=blue)
-	![Typescript](https://img.shields.io/badge/typescript-3172bc.svg?style=for-the-badge&logo=typescript&logoColor=3172bc&labelColor=fff&color=3172bc)
-
-### 🚀 Framework
-
-  ![React](https://img.shields.io/badge/react-539bf5?style=for-the-badge&logo=react&logoColor=42a5f5&labelColor=222&color=42a5f5)
-	![Nextjs](https://img.shields.io/badge/next.js-fff?style=for-the-badge&logo=nextdotjs&logoColor=000&labelColor=fff&color=000)
+💻 **IDE/Editor**
 	
+   ![Neovim](https://img.shields.io/badge/Lunarvim-666694.svg?style=for-the-badge&logo=neovim&logoColor=&labelColor=fff&color=666694)
+   ![Xcode](https://img.shields.io/badge/Xcode-007acc?style=for-the-badge&logo=Xcode&logoColor=007acc&labelColor=fff&color=007acc)
 
+🚀 **Framework**
+
+   ![React](https://img.shields.io/badge/react-539bf5?style=for-the-badge&logo=react&logoColor=42a5f5&labelColor=222&color=42a5f5)
+   ![Nextjs](https://img.shields.io/badge/next.js-fff?style=for-the-badge&logo=nextdotjs&logoColor=000&labelColor=fff&color=000)
+	
 ## Contact me
 		
  [![Facebook](https://img.shields.io/badge/Đỗ%20Viên.-1877f2?style=for-the-badge&logo=facebook&logoColor=1877f2&labelColor=fff&color=1877f2)](https://www.facebook.com/cpea2506)
