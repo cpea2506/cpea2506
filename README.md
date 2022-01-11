@@ -14,8 +14,7 @@
 
 
 - 🤞🏻 Bonjour! I'm Do Vien, you can call me `CPea`.
-- 📚 I’m currently a student of VN HCMUTE.
-- 🔭 My major is Information Technology as MERN stack and in love with Rust + Swift.
+- 🔭 I'm in love with Rust + Swift.
 
 <div align="center">
 
