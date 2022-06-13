@@ -18,3 +18,11 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cpea2506&theme=onedark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 	
 </div>
+
+---
+
+<div align="center">
+
+![Stat](https://github-readme-stats.vercel.app/api/top-langs?username=cpea2506&theme=onedark&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
