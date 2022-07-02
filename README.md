@@ -10,16 +10,28 @@
 	
 </div>
 
-<img alt="separator-ethglobal" src="https://user-images.githubusercontent.com/50140834/151820615-e577f72a-81f9-444c-99e8-7cee404180de.png" alt="drawing" width="100%" />
+<div align="center">
+	
+![Joke](https://readme-jokes.vercel.app/api?theme=onedark)
+
+</div>
 
 <div align="center">
+
+![Separator](https://user-images.githubusercontent.com/50140834/151820615-e577f72a-81f9-444c-99e8-7cee404180de.png)
+
+</div>
 
 ![Stat](https://github-readme-stats.vercel.app/api?username=cpea2506&show_icons=true&theme=onedark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cpea2506&theme=onedark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 	
 </div>
 
-<img alt="separator-ethglobal" src="https://user-images.githubusercontent.com/50140834/151820615-e577f72a-81f9-444c-99e8-7cee404180de.png" alt="drawing" width="100%" />
+<div align="center">
+
+![Separator](https://user-images.githubusercontent.com/50140834/151820615-e577f72a-81f9-444c-99e8-7cee404180de.png)
+
+</div>
 
 <div align="center">
 
