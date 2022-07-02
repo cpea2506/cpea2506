@@ -16,7 +16,13 @@
 
 </div>
 
+<div align="center">
+
 ![Stat](https://github-readme-stats.vercel.app/api?username=cpea2506&show_icons=true&theme=onedark)
+</div>
+
+<div align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cpea2506&theme=onedark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 	
 </div>
