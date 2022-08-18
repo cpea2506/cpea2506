@@ -18,6 +18,6 @@
 
 ![Separator](https://user-images.githubusercontent.com/50140834/151820615-e577f72a-81f9-444c-99e8-7cee404180de.png)
 
-![Stat](https://github-readme-stats.vercel.app/api/top-langs?username=cpea2506&theme=onedark&include_all_commits=true&count_private=true&layout=compact)
+![Stat](https://github-readme-stats.vercel.app/api/top-langs?&username=cpea2506&hide=javascript,css,scss,html,handlebars&langs_count=6&theme=onedark&layout=compact)
 
 </div>
