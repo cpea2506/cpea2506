@@ -26,14 +26,6 @@
 
 ![Stat](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?&username=cpea2506&hide=javascript,css,scss,html,handlebars&langs_count=6&theme=onedark&layout=compact)
   
-![Separator](https://user-images.githubusercontent.com/50140834/151820615-e577f72a-81f9-444c-99e8-7cee404180de.png)
-
-</div>
-
-
-
-<div align="center"> 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=cpea2506&theme=onedark&column=-1&margin-w=4&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
