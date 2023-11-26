@@ -24,7 +24,7 @@
 
 ![Separator](https://user-images.githubusercontent.com/50140834/151820615-e577f72a-81f9-444c-99e8-7cee404180de.png)
 
-![Toplang](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?&username=cpea2506&langs_count=6&&hide=ShaderLab,HLSL,css,scss&theme=onedark&layout=compact)
+![Toplang](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?&username=cpea2506&hide=ShaderLab,HLSL&theme=onedark&layout=compact)
   
 [![Trophy](https://github-profile-trophy.vercel.app/?username=cpea2506&theme=onedark&column=-1&margin-w=4&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
