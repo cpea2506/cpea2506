@@ -35,8 +35,20 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=readme-tools&repo=one_monokai.nvim
-          path: profile/pin-readme-tools-github-readme-stats.svg
+          options: username=cpea2506&repo=one_monokai.nvim
+          path: profile/pin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate trophy card
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: cpea2506
+          theme: onedark
+          cols: -1
+          margin-width: 4
+          no-background: true
+          rank: -C, -B
+          output_path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
